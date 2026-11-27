@@ -12,7 +12,7 @@ Prasyarat: Node.js minimal 22.13 dan npm. Dari folder proyek:
 npm run start
 ```
 
-Di macOS, klik dua kali `JALANKAN.command` di folder ini, atau `JALANKAN-WEBSITE.command` dari folder `APP DOWNLOAD`.
+Di macOS, klik dua kali `JALANKAN.command` di folder `GET-DANA-KELUARGA`. Folder ini adalah folder kerja utama, dengan branch `development`.
 
 Launcher memasang dependency yang belum tersedia, membuat konfigurasi lokal jika belum ada, menyiapkan migration database lokal, menjalankan website, dan membuka browser. Alamat awalnya `http://127.0.0.1:5173`; port berikutnya dipilih jika digunakan aplikasi lain. Konfigurasi/data yang sudah ada dipertahankan. Pemanggilan ulang memakai server proyek yang masih aktif. Biarkan Terminal terbuka; tekan **Control+C** untuk menghentikan server.
 
