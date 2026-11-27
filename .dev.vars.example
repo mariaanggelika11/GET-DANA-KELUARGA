@@ -1,0 +1,17 @@
+# Worker lokal: salin ke .dev.vars. Produksi memakai environment variables Sites.
+SITE_URL=http://localhost:5173
+
+# ID akun Sites dipisahkan koma. Kosong = tidak ada admin.
+# HANYA lokal portable: local_seedy dapat dipakai untuk signin simulasi.
+ADMIN_USER_IDS=
+
+# Secret acak minimum 32 karakter. Nilai SAMA pada mesin verifikasi dan Worker.
+# Jangan commit, tempel di browser, atau sertakan dalam file bukti.
+RELEASE_VERIFICATION_KEY=
+
+# SHA-256 sertifikat resmi penerbit, 64 hex tanpa titik dua. Bukan hash file APK.
+# Jangan memakai sertifikat Android Debug.
+ANDROID_SIGNING_CERT_SHA256=
+
+# Wajib: package final APK. Selesaikan perbedaan Gradle/Capacitor sebelum signing.
+APK_EXPECTED_PACKAGE=

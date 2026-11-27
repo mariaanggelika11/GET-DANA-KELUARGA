@@ -1,0 +1,21 @@
+{
+  "id": "bundled-3505b6377e3e8e63",
+  "versionName": "1.0.1",
+  "versionCode": 2,
+  "releaseDate": "2026-11-27",
+  "fileName": "dana-keluarga-1.0.1-release-3505b637.apk",
+  "fileSize": 3299870,
+  "minAndroid": "Android 7.0+",
+  "minSdk": 24,
+  "packageId": "com.bulmartech.danakeluarga",
+  "sha256": "3505b6377e3e8e639bf1622f0171b74ce26a5fb80bb6ee9281d96a6a22615004",
+  "signerSha256": "86259bebb0301dc8029b81a4d58c8edbab54923478143424fe6a764344bfa77b",
+  "releaseNotes": [
+    "APK release terbaru untuk distribusi langsung melalui website."
+  ],
+  "status": "published",
+  "active": true,
+  "downloadUrl": "/api/download/bundled-3505b6377e3e8e63",
+  "verifiedAt": "2026-11-27T10:20:50.960145+00:00",
+  "debuggable": false
+}
